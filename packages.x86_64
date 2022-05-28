@@ -122,3 +122,5 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+networkmanager
+netctl
