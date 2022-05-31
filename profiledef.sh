@@ -3,7 +3,7 @@
 
 iso_name="ajlinux"
 iso_label="AJ_$(date +%Y%m)"
-iso_publisher="AJ Linux <https://archlinux.org>"
+iso_publisher="AJ Linux <https://aj-wi.github.io/>"
 iso_application="AJ Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
